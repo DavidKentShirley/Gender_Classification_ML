@@ -1,4 +1,3 @@
-[TOC]
 
 # Gender_Classification_ML
 
