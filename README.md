@@ -1,4 +1,3 @@
-[TOC]
 
 # Gender_Classification_ML
 
@@ -7,9 +6,8 @@ This Project is based off my other project on [Artist_Recognition_ML](https://gi
 
 In the near future this model will be deployed on my website which is also still in the works.
 
-**Check out some of my earlier work** 
-Pet Store Project: [CLICK ME](https://github.com/DavidKentShirley/Pet_Store_Location_Analysis) 
-
+**Check out some of my earlier work** <br>
+Pet Store Project: [CLICK ME](https://github.com/DavidKentShirley/Pet_Store_Location_Analysis) <br>
 Kings County Price Predictor: [CLICK ME](https://github.com/DavidKentShirley/Kings_County_Price_Pedictor)
 
 
