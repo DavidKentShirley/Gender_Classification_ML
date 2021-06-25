@@ -64,5 +64,44 @@ After doing a basic model the next step was to check other models to see how the
 
 <img src="https://github.com/DavidKentShirley/Gender_Classification_ML/blob/main/Presentation%20Photos/grid%20search.png?raw=true" style="zoom:67%;" />
 
-The best model in both cases was the SVM model so for deployment I went with the SVM model, with the GridSearch Hyper parameters. 
+The best model in both cases was the SVM model so for deployment I went with the SVM model, with the GridSearchCV Hyper parameters. 
 
+
+
+## Results
+
+
+
+After running the model with the test data we get a nice confusion matrix to see how well it classified each gender based on facial pictures.
+
+
+
+![](https://github.com/DavidKentShirley/Gender_Classification_ML/blob/main/Presentation%20Photos/cm.png?raw=true)
+
+After we see this model we can than check the output of the model to see what it predicts with a new image. 
+
+![](https://github.com/DavidKentShirley/Gender_Classification_ML/blob/main/Presentation%20Photos/000019.jpg?raw=true)
+
+![](https://github.com/DavidKentShirley/Gender_Classification_ML/blob/main/Presentation%20Photos/better.png?raw=true)
+
+We can see what the model predicted with the probability for each class. 
+
+
+
+## The Future
+
+•The next step to this model would be adding age detection.
+
+​		•Having a model to be able to predict gender and age would benefit even more than just gender.
+
+
+
+•Using a deep learning model would help increase the score significantly 
+
+​		•Having a deep learning model would help the model learn on its own what each gender is using more complicated algorithms which would increase the model score by a good amount
+
+
+
+•Ability to use more of the dataset
+
+​		•With computer and time limitations using the whole dataset would take hours on hours to make and compare models
